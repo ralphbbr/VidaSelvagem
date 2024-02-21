@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/VidaSelvagem/static/css/main.8dc24e3d.chunk.css",
+    "main.js": "/VidaSelvagem/static/js/main.ec059f2c.chunk.js",
+    "main.js.map": "/VidaSelvagem/static/js/main.ec059f2c.chunk.js.map",
+    "runtime-main.js": "/VidaSelvagem/static/js/runtime-main.48df2c2a.js",
+    "runtime-main.js.map": "/VidaSelvagem/static/js/runtime-main.48df2c2a.js.map",
+    "static/js/2.3dad13d3.chunk.js": "/VidaSelvagem/static/js/2.3dad13d3.chunk.js",
+    "static/js/2.3dad13d3.chunk.js.map": "/VidaSelvagem/static/js/2.3dad13d3.chunk.js.map",
+    "index.html": "/VidaSelvagem/index.html",
+    "precache-manifest.c6a0dd2fc699eda83b78cb83c4e4f73a.js": "/VidaSelvagem/precache-manifest.c6a0dd2fc699eda83b78cb83c4e4f73a.js",
+    "service-worker.js": "/VidaSelvagem/service-worker.js",
+    "static/css/main.8dc24e3d.chunk.css.map": "/VidaSelvagem/static/css/main.8dc24e3d.chunk.css.map",
+    "static/js/2.3dad13d3.chunk.js.LICENSE.txt": "/VidaSelvagem/static/js/2.3dad13d3.chunk.js.LICENSE.txt",
+    "static/media/Logo.svg": "/VidaSelvagem/static/media/Logo.a4ed75ac.svg",
+    "static/media/Socias.jpg": "/VidaSelvagem/static/media/Socias.a3f7adce.jpg",
+    "static/media/about-background-image.png": "/VidaSelvagem/static/media/about-background-image.e31e0dba.png",
+    "static/media/home-banner-background.png": "/VidaSelvagem/static/media/home-banner-background.0744e3c1.png",
+    "static/media/home-banner-image.png": "/VidaSelvagem/static/media/home-banner-image.986c84e9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48df2c2a.js",
+    "static/js/2.3dad13d3.chunk.js",
+    "static/css/main.8dc24e3d.chunk.css",
+    "static/js/main.ec059f2c.chunk.js"
+  ]
+}
