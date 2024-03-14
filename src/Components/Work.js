@@ -2,26 +2,29 @@ import React from 'react'
 import PickMeals from "../Assets/pick-meals-image.png";
 import ChooseMeals from "../Assets/choose-image.png";
 import DeliveryMeals from "../Assets/delivery-image.png";
+import KellyPerfil from "../Assets/KellyPer.jpg";
+import MarinaPerfil from "../Assets/MarinaPer.jpg";
+import LouPerfil from "../Assets/LouPer.jpg";
 
 
 const Work = () => {
 const workInfoData = [
 {
-    image :PickMeals,
-    title: "Pick Meals",
-    text: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    image :KellyPerfil,
+    title: "Kelly",
+    text: "Kelly kelly kelly",
 
 },
 {
-    image :ChooseMeals,
-    title: "Choose How Often",
-    text: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    image :LouPerfil,
+    title: "Louysse",
+    text: "Lou lou lou",
     
 },
 {
-    image :DeliveryMeals,
-    title: "Fast Deliveries",
-    text: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    image :MarinaPerfil,
+    title: "Marina",
+    text: "Marina marina marina",
     
 }
 ]
@@ -29,14 +32,53 @@ const workInfoData = [
   return (
     <div className='work-section-wrapper'>
         <div className='work-section-top'>
-        <p className='primary-subheading'> Work </p>
-        <h1 className='primary-heading'>How It Works </h1>
+        {/* <p className='primary-subheading'> teste </p> */}
+        <h1 className='primary-heading'>Público-Alvo: </h1>
         <p className='primary-text'>
-        Duis aute irure dolor in reprehenderit in voluptate velit
-         esse cillum dolore eu fugiat nulla pariatur.
-          Excepteur sint occaecat cupidatat non proident, 
-          sunt in culpa qui officia deserunt mollit anim id est 
-          laborum.
+        Alunos e Profissionais da Medicina Veterinária, Interessados em Animais Silvestres e Pets Exóticos
+        </p>
+        </div>
+        <div className='work-section-top'>
+        {/* <p className='primary-subheading'> teste </p> */}
+        <h1 className='primary-heading'>O que você vai aprender: </h1>
+        <p className='primary-text'>
+        - 📋 Anamnese detalhada para identificação de sintomas e histórico de vida.
+        - 🐾 Exame físico adaptado às diferentes espécies.
+        - 🚑 Diagnóstico diferencial e condutas clínicas.
+        - 📊 Abordagem específica para pets exóticos e silvestres na rotina clínica.
+
+        </p>
+        </div>
+        <div className='work-section-top'>
+        {/* <p className='primary-subheading'> teste </p> */}
+        <h1 className='primary-heading'>Duração do Curso: </h1>
+        <p className='primary-text'>
+        - ⏰ 6 horas de conteúdo rico e envolvente.
+        </p>
+        </div>
+
+        <div className='work-section-top'>
+        {/* <p className='primary-subheading'> teste </p> */}
+        <h1 className='primary-heading'>Com Emissão de Certificado de Conclusão: </h1>
+        <p className='primary-text'>
+        - 🎓 Receba um certificado e valide sua expertise em semiologia de animais silvestres.
+        </p>
+        </div>
+
+        <div className='work-section-top'>
+        {/* <p className='primary-subheading'> teste </p> */}
+        <h1 className='primary-heading'>Formas de Pagamento </h1>
+        <p className='primary-text'>
+        - 💸 Valor acessível e opções de pagamento facilitadas (Pix, cartão de crédito e débito). Mais informações no link;/
+
+        Não perca a oportunidade de aprimorar suas habilidades na medicina veterinária de animais silvestres! Inscreva-se agora e leve sua prática para o próximo nível. 🚀🌏
+
+        Junte-se a nós na jornada de cuidado e respeito à Vida Selvagem!
+
+        [Inscreva-se Agora] [Link de Inscrição]
+
+        Clínica Vida Selvagem - Cuidando da Natureza, Cuidando de Você
+
         </p>
         </div>
         <div className='work-section-bottom'>   

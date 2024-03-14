@@ -1,6 +1,7 @@
 import React from 'react'
 import AboutBackground from "../Assets/about-background.png";
 import AboutBackgroundImage from "../Assets/about-background-image.png";
+import CursoImagem from "../Assets/Loucurso.jpg"
 import { BsFillPlayCircleFill } from 'react-icons/bs';
 
 const About = () => {
@@ -9,20 +10,26 @@ const About = () => {
         <img src={AboutBackground} alt=""/>
         </div>
         <div className='about-section-image-container'>
-            <img src={AboutBackgroundImage} alt=""/>
+            <img src={CursoImagem} alt=""/>
         </div>
         <div className='about-section-text-container'>
-        <p className='primary-subheading'>  About </p>
+        {/* <p className='primary-subheading'>  teste </p> */}
         <h1 className='primary-heading'>
-        Food Is An Important Part Of A Balanced Diet
+        Neste curso você terá acesso a:
         </h1>
         <p className='primary-text'>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Conteúdo Abrangente: Explore os fundamentos da semiologia, desde a anamnese até o exame físico, adaptados às particularidades dos animais silvestres.
         </p>
         <p className='primary-text'>
-        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        Experiência Prática: Aprenda com casos reais e situações do dia a dia, proporcionando uma compreensão aprofundada e prática.
         </p>
-        <div className='about-buttons-container'>
+        <p className='primary-text'>
+        Instrutores Especializados: Nossa equipe é composta por profissionais experientes e apaixonados pela medicina veterinária de animais silvestres e exóticos.
+        </p>
+        <p className='primary-text'>
+        Online e Acessível: Participe do curso de qualquer lugar, no seu ritmo. Conteúdo disponível 24 horas por dia, 7 dias por semana.
+        </p>
+        {/* <div className='about-buttons-container'>
         <button className='secondary-button'>Learn More </button>
         <button className='watch-videos-button'>
             {""}
@@ -31,7 +38,7 @@ const About = () => {
             <BsFillPlayCircleFill/> Watch Video 
             
         </button>
-        </div>
+        </div> */}
         </div>
     </div>
   )
