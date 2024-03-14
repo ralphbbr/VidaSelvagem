@@ -15,7 +15,7 @@ const About = () => {
         <div className='about-section-text-container'>
         {/* <p className='primary-subheading'>  teste </p> */}
         <h1 className='primary-heading'>
-        Neste curso você terá acesso a:
+        Neste curso você terá acesso a: 11
         </h1>
         <p className='primary-text'>
         Conteúdo Abrangente: Explore os fundamentos da semiologia, desde a anamnese até o exame físico, adaptados às particularidades dos animais silvestres.
