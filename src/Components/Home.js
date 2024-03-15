@@ -1,9 +1,10 @@
 import React from "react";
 import Navbar from "./Navbar"; 
 import BannerBackground from "../Assets/home-banner-background.png";
+import FundoVida from "../Assets/Fundolaranja1.png"
 import BannerImage from "../Assets/home-banner-image.png";
-import VidaSelvagemGrupo from "../Assets/VidaSelvagem.jpg"
-import Socias from "../Assets/Socias.jpg"
+import VidaSelvagemGrupo from "../Assets/FotoVS.png"
+import Socias from "../Assets/FotoVS.png"
 import { FiArrowRight} from "react-icons/fi";
 
 
@@ -13,7 +14,7 @@ const Home = () => {
         <Navbar />
         <div className="home-banner-container">
             <div className="home-bannerImage-container">
-                <img src ={BannerBackground} alt=""/>
+                <img src ={FundoVida} alt=""/>
             </div>
             <div className="home-text-section">
                 <h1 className="primary-heading">

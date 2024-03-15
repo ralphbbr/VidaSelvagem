@@ -2,29 +2,29 @@ import React from 'react'
 import PickMeals from "../Assets/pick-meals-image.png";
 import ChooseMeals from "../Assets/choose-image.png";
 import DeliveryMeals from "../Assets/delivery-image.png";
-import KellyPerfil from "../Assets/KellyPer.jpg";
-import MarinaPerfil from "../Assets/MarinaPer.jpg";
-import LouPerfil from "../Assets/LouPer.jpg";
+import KellyPerfil from "../Assets/Kelly.png";
+import MarinaPerfil from "../Assets/Marina.png";
+import LouPerfil from "../Assets/Louysse.png";
 
 
 const Work = () => {
 const workInfoData = [
 {
     image :KellyPerfil,
-    title: "Kelly",
-    text: "Kelly kelly kelly",
+    title: "Kelly Souza",
+    text: "Bióloga e Médica Veterinária Especializada em Clínica e Cirurgia de Animais Silvestres Mestrado em Saúde Animal na Amazônia",
 
 },
 {
     image :LouPerfil,
-    title: "Louysse",
-    text: "Lou lou lou",
+    title: "Louysse Monteiro",
+    text: "Médica Veterinária Especializada em Clínica e Cirurgia de Animais Silvestres Mestrado em Saúde Animal na Amazônia",
     
 },
 {
     image :MarinaPerfil,
-    title: "Marina",
-    text: "Marina marina marina",
+    title: "Marina Benarrós",
+    text: "Médica Veterinária Especializada em Clínica e Cirurgia de Animais Silvestres Mestrado em Sanidade Animal e Saúde Pública nos Trópicos",
     
 }
 ]
