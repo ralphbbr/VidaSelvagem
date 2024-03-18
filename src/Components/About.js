@@ -16,7 +16,7 @@ const About = () => {
         <div className='about-section-text-container'>
         {/* <p className='primary-subheading'>  teste </p> */}
         <h1 className='primary-heading'>
-        Neste curso você terá acesso a: 11
+        Neste curso você terá acesso a:
         </h1>
         <p className='primary-text'>
         Conteúdo Abrangente: Explore os fundamentos da semiologia, desde a anamnese até o exame físico, adaptados às particularidades dos animais silvestres.
@@ -30,16 +30,14 @@ const About = () => {
         <p className='primary-text'>
         Online e Acessível: Participe do curso de qualquer lugar, no seu ritmo. Conteúdo disponível 24 horas por dia, 7 dias por semana.
         </p>
-        {/* <div className='about-buttons-container'>
-        <button className='secondary-button'>Learn More </button>
+        <div className='about-buttons-container'>
+        {/* <button className='secondary-button'>Learn More </button> */}
         <button className='watch-videos-button'>
             {""}
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/3fy0qSQUTHk?si=VOtWBP90641nKD8R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            
-            <BsFillPlayCircleFill/> Watch Video 
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/RiBTLf_e-Mo?si=Pua2Fb1txhnUkRVp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             
         </button>
-        </div> */}
+        </div>
         </div>
     </div>
   )

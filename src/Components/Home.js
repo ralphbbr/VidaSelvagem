@@ -18,13 +18,19 @@ const Home = () => {
             </div>
             <div className="home-text-section">
                 <h1 className="primary-heading">
-                Curso: Semiologia de Animais Silvestres - Da Anamnese ao Exame Físico
+                Semiologia de Animais Silvestres - Da Anamnese ao Exame Físico
                 </h1>
                 <p className="primary-text">
-                Bem-vindo ao curso que transformará a sua prática veterinária!
-                Você é apaixonado por animais silvestres e deseja aprimorar suas habilidades na área? Apresentamos o curso "Semiologia de Animais Silvestres - Da Anamnese ao Exame Físico", ministrado pela renomada equipe da Empresa Vida Selvagem, composta pelas experientes Médicas Veterinárias: Marina Benarrós, Louysse Monteiro e Kelly Souza.
-
+                Seja bem-vindo ao curso que transformará a sua prática veterinária!
+                {/* Você é apaixonado por animais silvestres e deseja aprimorar suas habilidades na área? Apresentamos o curso "Semiologia de Animais Silvestres - Da Anamnese ao Exame Físico", ministrado pela renomada equipe da Empresa Vida Selvagem, composta pelas experientes Médicas Veterinárias: Marina Benarrós, Louysse Monteiro e Kelly Souza. */}                
                 </p>
+                <p className="primary-text">
+                Você é apaixonado por animais silvestres e deseja aprimorar suas habilidades na área?
+                </p>
+                <p className="primary-text">
+                Então venha conhecer o curso "Semiologia de Animais Silvestres - Da Anamnese ao Exame Físico", ministrado pela equipe do Vida Selvagem, composta pelas experientes Médicas Veterinárias: Marina Benarrós, Louysse Monteiro e Kelly Souza.
+                </p>
+                
                 {/* <button className="secondary-button">
                     Order now <FiArrowRight />
                 </button> */}

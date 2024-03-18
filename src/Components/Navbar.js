@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import Logo from '../Assets/Logo.svg';
+import LogoVS from '../Assets/LOGOcortada.jpg'
 import { BsCart2 } from "react-icons/bs";
 import { HiOutlineBars3 } from "react-icons/hi2";
 import { Box, Drawer, List, ListItem, ListItemButton, ListItemIcon, ListItemText,} from "@mui/material";
@@ -38,17 +39,17 @@ const Navbar = () => {
   return (
     <nav>
         <div className='nav-logo-container'>
-            <img src={Logo} alt=""/>
+            <img src={LogoVS} alt=""/>
         </div>
         <div className='navbar-links-container'>
-            <a hred="">Home</a>
+            {/* <a hred="">Home</a>
             <a hred="">About</a>
             <a hred="">Testimonials</a>
-            <a hred="">Contact</a>
-            <a hred="">
+            <a hred="">Contact</a> */}
+            {/* <a hred="">
                 <BsCart2 className='navbar-cart-icon'/>              
             </a>
-            <button className='primary-button'> Bookings Now  </button>
+            <button className='primary-button'> Bookings Now  </button> */}
         </div>
         <div className='navbar-menu-container'>
         <HiOutlineBars3 onClick={() => setOpenMenu(true)}/>

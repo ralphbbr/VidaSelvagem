@@ -1,5 +1,6 @@
 import React from 'react'
 import Logo from '../Assets/Logo.svg';
+import LogoVidaSelvagem from '../Assets/vs .png';
 import { BsTwitter } from 'react-icons/bs';
 import {SiLinkedin} from 'react-icons/si';
 import { BsYoutube } from 'react-icons/bs';
@@ -10,7 +11,7 @@ const Footer = () => {
     <div className='footer-wrapper'>
         <div className='footer-section-one'>
             <div className='footer-logo-container'>
-            <img src={Logo} alt=""/>
+            <img src={LogoVidaSelvagem} alt=""/>
             </div>
             <div className='footer-icons'>
                 <BsTwitter/>
@@ -21,22 +22,22 @@ const Footer = () => {
         </div>
         <div className='footer-section-two'>
             <div className='footer-section-columns'>
-                <span>Quality</span>
+                {/* <span>Quality</span>
                 <span>Help</span>
                 <span>Share</span>
                 <span>Carrers</span>
                 <span>Testimonials</span>
-                <span>Work</span>
+                <span>Work</span> */}
             </div>
             <div className='footer-section-columns'>
-                <span>244-5333-7783</span>
+                {/* <span>244-5333-7783</span>
                 <span>hello@food.com</span>
                 <span>press@food.com</span>
-                <span>contact@food.com</span>
+                <span>contact@food.com</span> */}
             </div>
             <div className='footer-section-columns'>
-                <span>Terms & COndition</span>
-                <span>Privacy Policy</span>
+                {/* <span>Terms & COndition</span>
+                <span>Privacy Policy</span> */}
 
             </div>
 
