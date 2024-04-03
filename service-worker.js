@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/VidaSelvagem/precache-manifest.331281373caab59554cf9681d1e55eee.js"
+  "/VidaSelvagem/precache-manifest.0dd65f19edf2ebfce89f0971f357a0d9.js"
 );
 
 self.addEventListener('message', (event) => {
