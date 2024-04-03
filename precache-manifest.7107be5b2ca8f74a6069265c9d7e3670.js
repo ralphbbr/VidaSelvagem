@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e5c3aa6aff651f280f69c192b6cde87",
+    "revision": "ebac072c6e5f6343279c9605aa0b12cf",
     "url": "/VidaSelvagem/index.html"
   },
   {
-    "revision": "2741e7a76decde58d6a7",
-    "url": "/VidaSelvagem/static/css/main.957c9375.chunk.css"
+    "revision": "546ac1590c99bf33b2a5",
+    "url": "/VidaSelvagem/static/css/main.5418aa81.chunk.css"
   },
   {
     "revision": "53bace16e1d0b0c2437b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VidaSelvagem/static/js/2.383371b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2741e7a76decde58d6a7",
+    "revision": "546ac1590c99bf33b2a5",
     "url": "/VidaSelvagem/static/js/main.87f1f60e.chunk.js"
   },
   {
