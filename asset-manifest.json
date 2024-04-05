@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/VidaSelvagem/static/css/main.8d6031dc.chunk.css",
-    "main.js": "/VidaSelvagem/static/js/main.9d86df90.chunk.js",
-    "main.js.map": "/VidaSelvagem/static/js/main.9d86df90.chunk.js.map",
+    "main.css": "/VidaSelvagem/static/css/main.1326cc3f.chunk.css",
+    "main.js": "/VidaSelvagem/static/js/main.78a9d32e.chunk.js",
+    "main.js.map": "/VidaSelvagem/static/js/main.78a9d32e.chunk.js.map",
     "runtime-main.js": "/VidaSelvagem/static/js/runtime-main.48df2c2a.js",
     "runtime-main.js.map": "/VidaSelvagem/static/js/runtime-main.48df2c2a.js.map",
     "static/js/2.e16c07c4.chunk.js": "/VidaSelvagem/static/js/2.e16c07c4.chunk.js",
     "static/js/2.e16c07c4.chunk.js.map": "/VidaSelvagem/static/js/2.e16c07c4.chunk.js.map",
     "index.html": "/VidaSelvagem/index.html",
-    "precache-manifest.5f70c65a396a2efaaaa61cad7a68af15.js": "/VidaSelvagem/precache-manifest.5f70c65a396a2efaaaa61cad7a68af15.js",
+    "precache-manifest.b88c46b08133a10bcd10373dcb15db2b.js": "/VidaSelvagem/precache-manifest.b88c46b08133a10bcd10373dcb15db2b.js",
     "service-worker.js": "/VidaSelvagem/service-worker.js",
-    "static/css/main.8d6031dc.chunk.css.map": "/VidaSelvagem/static/css/main.8d6031dc.chunk.css.map",
+    "static/css/main.1326cc3f.chunk.css.map": "/VidaSelvagem/static/css/main.1326cc3f.chunk.css.map",
     "static/js/2.e16c07c4.chunk.js.LICENSE.txt": "/VidaSelvagem/static/js/2.e16c07c4.chunk.js.LICENSE.txt",
     "static/media/FotoVS.png": "/VidaSelvagem/static/media/FotoVS.a63d593f.png",
     "static/media/Fundolaranja1.png": "/VidaSelvagem/static/media/Fundolaranja1.14b367f4.png",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.48df2c2a.js",
     "static/js/2.e16c07c4.chunk.js",
-    "static/css/main.8d6031dc.chunk.css",
-    "static/js/main.9d86df90.chunk.js"
+    "static/css/main.1326cc3f.chunk.css",
+    "static/js/main.78a9d32e.chunk.js"
   ]
 }
